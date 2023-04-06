@@ -3,6 +3,7 @@
 ## **ÍNDICE**
 
 * [1. Intro]
+(https://github.com/amandareaaa/P-gina-Web-de-Basset-Hounds/blob/main/README.md#1-intro)
 * [2. Qué construí]
 * [3. Objetivo del Proyecto]
 * [4. Link al Demo]
