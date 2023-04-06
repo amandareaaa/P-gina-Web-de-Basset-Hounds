@@ -2,11 +2,10 @@
 
 ## **ÍNDICE**
 
-* [1. Intro]
-(https://github.com/amandareaaa/P-gina-Web-de-Basset-Hounds/blob/main/README.md#1-intro)
-* [2. Qué construí]
-* [3. Objetivo del Proyecto]
-* [4. Link al Demo]
+* [1. Intro](https://github.com/amandareaaa/P-gina-Web-de-Basset-Hounds/blob/main/README.md#1-intro)
+* [2. Qué construí](https://github.com/amandareaaa/P-gina-Web-de-Basset-Hounds/blob/main/README.md#2-qué-constru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/amandareaaa/P-gina-Web-de-Basset-Hounds/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link al Demo](https://github.com/amandareaaa/P-gina-Web-de-Basset-Hounds/blob/main/README.md#4-link-a-demo)
 
 
 ****
@@ -28,4 +27,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [Página Web de Basset Hounds](https://hilarious-belekoy-b37596.netlify.app)
+Aquí puedes visualizar mi proyecto terminado: [Página Web de Basset Hounds](#)
