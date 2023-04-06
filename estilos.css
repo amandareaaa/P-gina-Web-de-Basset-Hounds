@@ -1,0 +1,26 @@
+body{
+    background-color:#003976;
+    color:#ffa2c7;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, li{
+    color:#00cbb7;
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+}
+img{
+    width: 300px;
+    border-style: double;
+    color:#007f92;
+    border-width: 12px;
+    padding:10px;
+    margin: 10px;
+    
+}
+
+footer{
+    background-color: #007f92;
+}
